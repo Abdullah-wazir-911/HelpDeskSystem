@@ -99,9 +99,9 @@ The system uses SQL Server to store and manage data.
 
 ## Team Members
 
-- Abdul Ghafar (Group Leader)  F23BDOCS1M01201
-- Muhammad Abdullah            F23BDOCS1M01198
-- Rehan Ali Arman              F23BDOCS1M01220
+- Abdul Ghafar (Group Leader)  (F23BDOCS1M01201)
+- Muhammad Abdullah            (F23BDOCS1M01198)
+- Rehan Ali Arman              (F23BDOCS1M01220)
 
 ## Course Information
 
